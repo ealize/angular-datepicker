@@ -1,6 +1,6 @@
 # angular-datepicker
 
-The mobile-friendly, responsive, and lightweight Angular.js date &amp; time input picker. ~~Perfect for Ionic apps!~~ Ionic supported to be added.
+The mobile-friendly, responsive, and lightweight Angular.js date &amp; time input picker. ~~Perfect for Ionic apps!~~ Ionic support to be added.
 
 ![datepicker](https://dl.dropboxusercontent.com/u/16304603/datepicker.PNG), ![datepicker](https://dl.dropboxusercontent.com/u/16304603/timepicker.PNG)
 
